@@ -161,3 +161,4 @@ def test_password_hashes_are_unique(test_database):
     conn.close()
 
     assert users[0]["password"] != users[1]["password"]
+    
