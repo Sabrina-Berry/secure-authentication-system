@@ -2,8 +2,8 @@
 A Python-based web application demonstrating secure user authentication & password hashing.
 
 # Features
-## User registration and login
-## Secure password hashing using Werkzeug
+User registration and login
+Secure password hashing using Werkzeug
 ## SQLite database integration
 ## Protected dashboard
 ## Session management
